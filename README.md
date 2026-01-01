@@ -101,7 +101,7 @@ Educational and personal use
 ### 📷 Preview
 
 
-!(image.png)[""]
+![image.png](image.png)
 
 
 
